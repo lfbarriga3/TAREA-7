@@ -4,18 +4,19 @@
 
 **1.1 Objetivo General**
 
-Aprender a calcular la resistencia, voltaje y corriente tanto para circuitos en serie como para paralelos mediante la aplicación de la LEY DE OHM, divisores de voltaje y corriente, de tal manera que sea posible encontrar cualquier tipo de fallas en los circuitos eléctricos al momento de poner en práctica la teoría adquirida.
-
+Entender la construcción  y los tipos de inductores, de tal manera que ese conocimiento sea útil al momento de analizar circuitos inductivos. Adicionalmente se describirá el funcionamiento y la construcción de transformadores, a fin de ejecutar un análisis respecto al efecto que tiene una carga resistiva a través del devanado secundario.
 
 **1.2 Objetivos Específicos**
 
-Reconocer la manera en la cual se halla la resistencia total en un circuito serie. 
+Analizar inductores, tanto en circuitos serie como paralelos.
 
-Identificar circuitos en serie y paralelos 
+Estudiar los tipos de inductores.
 
-Determinar la potencia de circuitos en serie y paralelo.
+Describir el funcionamiento y construcción de un transformador.
 
-Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en serie como pararalelo.
+Hacer un análisis del efecto de una carga reflejada en un transformador.
+
+Describir los tipos de transformadores y sus características principales.
 
 ### 2. MARCO TEÓRICO
 
