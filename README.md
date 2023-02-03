@@ -23,28 +23,27 @@ Reconocer y resolver las fallas que pueden presentarse en los circuitos tanto en
 
 **2.1.1 El inductor básico**
 
-![image](https://user-images.githubusercontent.com/116696484/202933943-b2ee0179-c054-4e6b-8b9b-8bca6cbd4f31.png)
+![image](https://user-images.githubusercontent.com/116696484/216665614-41a92308-8e34-42bd-919c-a5fb25e6284a.png)
 
 **2.1.2 Tipos de inductores**
 
-![image](https://user-images.githubusercontent.com/116696484/202934861-692a8c02-7f22-4f80-9f95-3c5a47155d07.png)
+![image](https://user-images.githubusercontent.com/116696484/216665673-99011004-b8cb-41eb-8b46-975f183c6f40.png)
 
 **2.1.3 Inductores en serie y en paralelo**
 
-![image](https://user-images.githubusercontent.com/116696484/202935783-2d0a6cd5-bc32-463a-8f10-b80a65a0989a.png)
+![image](https://user-images.githubusercontent.com/116696484/216665744-a062a87e-f6c3-449a-b950-c54bcb2cf688.png)
 
 **2.1.4 Inductores en circuitos de CD**
 
-![image](https://user-images.githubusercontent.com/116696484/202937765-301680c0-4e78-41bc-bf33-54d29bdd62f0.png)
+![image](https://user-images.githubusercontent.com/116696484/216665828-6cf630ee-eea5-4c4a-8f25-975621d98f74.png)
 
 **2.1.5 Inductores en circuitos de CA**
 
-![image](https://user-images.githubusercontent.com/116696484/202937896-50686043-a2d4-4dd6-a641-34163b3ebddc.png)
+![image](https://user-images.githubusercontent.com/116696484/216665949-94409033-a987-4ad9-8fcf-c24808554108.png)
 
 **2.1.6 Aplicaciones de los inductores**
 
-![image](https://user-images.githubusercontent.com/116696484/202942983-84f12958-3e3f-4c76-a08e-8f318033c02c.png)
-
+![image](https://user-images.githubusercontent.com/116696484/216666011-25d27d50-9cf2-48cb-addf-5b69851401f7.png)
 
 **2.2 Capítulo 14: Transformadores**
 
