@@ -247,14 +247,14 @@ https://youtu.be/fWE2tF2Jrjc
 
 ### 5. CONCLUSIONES 
 
-A lo largo del presente informe se ha logrado diferenciar a un circuito serie de un paralelo, además se conocieron características de cada circuito, tales con que en el circuito en serie la corriente es constante y el voltaje se divide, mientras que en el circuito paralelo el voltaje se mantiene constante y la corriente se divide a través de los elementos que sean parte del circuito eléctrico.
-
-Adicionalmente se aprendió a identificar las fallas que puedan presentarse al momento de armar el circuito experimentalmente, de tal manera que con los cálculos sea posible solucionar cualquier tipo de falla que pueda aparecer en el circuito eléctrico.
+A lo largo del presente informe se aprendió que el inductor, es básicamente una bobina de alambre, se basa en el principio de inducción electromagnética. Inductancia es la propiedad de una bobina de alambre que se opone a un cambio de corriente. La base de la inductancia es el campo electromagnético que rodea cualquier conductor cuando fluye corriente a través de él. El componente eléctrico diseñado para poseer la propiedad de inductancia se llama inductor, bobina o, en ciertas aplicaciones, bobina de reducción o reactancia.
+ 
+Adicionalmente se estudió que la operación del transformador se basa en el principio de inductancia mutua, la cual ocurre si dos o más bobinas están muy cercanas una de otra. En realidad, un transformador simple se compone de dos bobinas que están acopladas de manera electromagnética por su inductancia mutua. Como no existe contacto eléctrico entre dos bobinas magnéticamente acopladas, la transferencia de energía de una bobina a la otra se logra en una situación de completo aislamiento eléctrico.
 
 ### 6. BIBLIOGRAFÍA 
 
-Boylestad, R. L. (2004). Introducción al análisis de circuitos. Pearson Educación.
+Abarca Enríquez, F. (1974). Diseño de una inductancia electrónica (Bachelor's thesis, Quito: EPN, 1974.).
 
-Dorf, R., & Svoboda, J. (2015). Circuitos eléctricos. Alpha Editorial.
+Avelar, O. X., & Romero, D. I. Inductancias Acopladas Magnéticamente.
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
