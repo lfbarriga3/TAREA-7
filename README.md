@@ -243,7 +243,7 @@ Alguno, pero no todos, de los devanados secundarios están cortocircuitados o el
 
 ### 4. VIDEO
 
-https://youtu.be/fWE2tF2Jrjc
+https://youtu.be/RjWTO_ndsms
 
 ### 5. CONCLUSIONES 
 
